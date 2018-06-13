@@ -1,4 +1,4 @@
-import _getClassName from 'babel-plugin-react-css-modules/dist/browser/getClassName';
+import _getClassName from 'babel-plugin-react-css-modules-sass/dist/browser/getClassName';
 import './bar.css';
 
 const _styleModuleImportMap = {
